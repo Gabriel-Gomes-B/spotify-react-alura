@@ -8,6 +8,9 @@ cd spotify-react/
 
 npm install @testing-library/react@latest web-vitals
 
+npm install @fortawesome/react-fontawesome
+npm install @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
+
 code .
 
 npm start
